@@ -1,0 +1,6 @@
+projectKey=rn_test
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=rn_test
+ceTaskId=AXQ6dPNKxNNbg4BIV-JG
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXQ6dPNKxNNbg4BIV-JG
